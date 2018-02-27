@@ -1,0 +1,2 @@
+# omegasopmodel
+Just another repository
